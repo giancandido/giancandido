@@ -47,6 +47,5 @@ Tenho interesse em robótica competitiva (robôs sumô com Arduino) e em Machine
 
 <h3 align="left">Estatísticas do GitHub:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=riAnriAn0&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="estatísticas do github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riAnriAn0" alt="streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riAnriAn0" alt="streak" width="60%" />
 </p>
